@@ -11,13 +11,3 @@ bagaimana caranya coding
 ![](https://streak-stats.demolab.com/?user=argottzz&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=argottzz&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=argottzz&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=argottzz&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=argottzz&icon=6&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
