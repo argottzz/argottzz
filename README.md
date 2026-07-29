@@ -10,6 +10,6 @@
 ![](https://streak-stats.demolab.com/?user=argottzz&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=argottzz&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJpYzV1bTFwZDk0dWgyd2ZhMDBlaWl4aG1hZm9obGhvYWttdGsxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZWh630dmy6gfxQIwGm/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8zamRnNWpiczEyanJwZGV3dHZ6Y2cybGl1Zmt2dW9kNHBmd3lkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/srV1G3EnqSLtL11Nsx/giphy.gif)
 
 
