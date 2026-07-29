@@ -1,5 +1,4 @@
-# 💫 About Me:
-bagaimana caranya coding
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/argoottt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:argazanuar1@gmail.com) 
@@ -10,4 +9,7 @@ bagaimana caranya coding
 ![](https://github-readme-stats.shion.dev/api?username=argottzz&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=argottzz&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=argottzz&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJpYzV1bTFwZDk0dWgyd2ZhMDBlaWl4aG1hZm9obGhvYWttdGsxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZWh630dmy6gfxQIwGm/giphy.gif)
+
 
