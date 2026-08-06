@@ -1,14 +1,4 @@
-<h1 align="center">Hello World I'm Arga 👋</h1>
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
-</p>
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-  <img src="coding.gif" width="300">
-</p>
 
 
 ## 🌐 Socials:
