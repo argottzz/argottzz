@@ -53,8 +53,8 @@
 
 <br/>
 
-<!-- Metrics by Lowlighter (Isolines plugin) -->
-<img src="https://github.com/argottzz/argottzz/blob/main/metrics.plugin.isocalendar.svg" alt="GitHub Metrics Isolines" width="100%" />
+<!-- Metrics by Lowlighter -->
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 <br/>
 
