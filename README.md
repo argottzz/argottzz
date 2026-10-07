@@ -12,8 +12,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1A1A&height=90&section=header" width="100%" />
-
 ### *On a Journey to become a great Front-End Developer*
 
 </div>
@@ -98,5 +96,8 @@ I'm always open to interesting projects, collaborations, internships, and learni
 
 <br/><br/>
 <img src="https://media.giphy.com/media/3ov9jSOVPbRIOZXuKI/giphy.gif" alt="Kylo Ren" width="400"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1A1A&height=90&section=header" width="100%" />
+
 
 </div>
