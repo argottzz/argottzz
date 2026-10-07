@@ -111,7 +111,6 @@ I'm always open to interesting projects, collaborations, internships, and learni
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
 <br/><br/>
 <img src="https://media.giphy.com/media/3ov9jSOVPbRIOZXuKI/giphy.gif" alt="Kylo Ren" width="400"/>
 
