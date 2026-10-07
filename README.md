@@ -30,24 +30,15 @@
 
 ---
 
-## Present Status
-
-- Learning **React, Tailwind & Express**
-- Slicing **Mobile UI with Flutter** & building school projects
-- Exploring **UI/UX on Figma & Dribbble**
-- Building & contributing to Open Source projects
-
-`Update Oct 2026:` Focused on Flutter + Express + Front-End. Several new projects coming soon.
-
-`Update Sep 2026:` Shipped **CicipYuk-blogApp (Dart)** + **blogApp-express (TypeScript)** — a fullstack blog app, frontend and backend.
-
----
-
 ## Tech Stack
 
 <div align="center">
 
 <img width="100%" src="skills.svg" alt="Tech Stack" />
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,dart,py,flutter,laravel,nextjs,nodejs,react,vite,tailwind,mysql,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -89,37 +80,6 @@ Consistency is the game. Every commit is progress.
 
 ---
 
-## Projects
-
-| Project | Description |
-|---|---|
-| [CicipYuk-blogApp](https://github.com/argottzz/CicipYuk-blogApp) | Blog app frontend built with **Dart/Flutter** |
-| [blogApp-express](https://github.com/argottzz/blogApp-express) | Blog backend API built with **Express + TypeScript** |
-| [slicing-tampilan-mobile](https://github.com/argottzz/slicing-tampilan-mobile) | Mobile UI slicing practice with **Dart** |
-| [flutterAwal](https://github.com/argottzz/flutterAwal) | First Flutter project — learning mobile development |
-| [belajarExpress](https://github.com/argottzz/belajarExpress) | Learning **Express + TypeScript** backend development |
-| [YouBit](https://github.com/argottzz/YouBit) | Web experiment built with **JavaScript** |
-
-See all repositories: [argottzz?tab=repositories](https://github.com/argottzz?tab=repositories)
-
----
-
-## Achievements & Testimonials
-
-| Name | Description |
-|---|---|
-| RPL Student — Front-End Path | Focused on **Front-End Development & UI/UX**, building clean and responsive webs |
-| Fullstack Blog App | Built frontend (**Flutter**) + backend (**Express**) blog app duo |
-| Open Source Contributor | Learning, building and contributing to open source |
-
-> *Arga is a fast learner with a sharp eye for clean UI.* — Collaborator
-
-Want to leave a message? Open an [issue](https://github.com/argottzz/argottzz/issues).
-
-### [Support my work](https://github.com/sponsors/argottzz)
-
----
-
 ## Let's Connect
 
 <div align="center">
@@ -128,14 +88,21 @@ Want to leave a message? Open an [issue](https://github.com/argottzz/argottzz/is
 
 I'm always open to interesting projects, collaborations, internships, and learning opportunities.
 
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to-Collaboration-FF1A1A?style=for-the-badge&logoColor=white" alt="Open to Collaboration" />
+<img src="https://img.shields.io/badge/Open_to-Internships-0D1117?style=for-the-badge&logoColor=FF1A1A" alt="Open to Internships" />
+
+<br/><br/>
+
 <a href="https://instagram.com/argoottt" target="_blank">
-  <img width="150" src="instagram.svg" alt="Instagram"/>
+  <img width="170" src="instagram.svg" alt="Instagram"/>
 </a>
 <a href="mailto:argazanuar1@gmail.com">
-  <img width="150" src="gmail.svg" alt="Gmail"/>
+  <img width="170" src="gmail.svg" alt="Gmail"/>
 </a>
 <a href="https://github.com/argottzz" target="_blank">
-  <img width="150" src="github-button.svg" alt="GitHub"/>
+  <img width="170" src="github-button.svg" alt="GitHub"/>
 </a>
 
 </div>
