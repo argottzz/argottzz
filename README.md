@@ -78,7 +78,7 @@ Consistency is the game. Every commit is progress.
 
 I'm always open to interesting projects, collaborations, internships, and learning opportunities.
 
-<br/><br/>
+<br/>
 
 <a href="https://instagram.com/argoottt" target="_blank">
   <img width="170" src="instagram.svg" alt="Instagram"/>
