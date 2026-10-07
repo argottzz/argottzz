@@ -20,8 +20,6 @@
 
 ---
 
-## About Me
-
 <div align="center">
 
 <img width="100%" src="about.svg" alt="About Arga" />
@@ -29,8 +27,6 @@
 </div>
 
 ---
-
-## Tech Stack
 
 <div align="center">
 
@@ -43,8 +39,6 @@
 </div>
 
 ---
-
-## GitHub Analytics
 
 <div align="center">
 
@@ -59,8 +53,6 @@
 </div>
 
 ---
-
-## Contribution Arcade
 
 <div align="center">
 
@@ -79,8 +71,6 @@ Consistency is the game. Every commit is progress.
 </div>
 
 ---
-
-## Let's Connect
 
 <div align="center">
 
