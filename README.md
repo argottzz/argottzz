@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=argottzz&color=7AA2F7&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/argottzz?label=Followers&style=flat&color=7AA2F7" alt="followers" />
-
 </div>
 
 <br/>
