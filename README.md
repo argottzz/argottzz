@@ -91,10 +91,6 @@ Consistency is the game. Every commit is progress.
 
 ## Projects
 
-<details>
-<summary>Show Projects</summary>
-<br/>
-
 | Project | Description |
 |---|---|
 | [CicipYuk-blogApp](https://github.com/argottzz/CicipYuk-blogApp) | Blog app frontend built with **Dart/Flutter** |
@@ -106,15 +102,9 @@ Consistency is the game. Every commit is progress.
 
 See all repositories: [argottzz?tab=repositories](https://github.com/argottzz?tab=repositories)
 
-</details>
-
 ---
 
 ## Achievements & Testimonials
-
-<details>
-<summary>Show Achievements</summary>
-<br/>
 
 | Name | Description |
 |---|---|
@@ -122,17 +112,9 @@ See all repositories: [argottzz?tab=repositories](https://github.com/argottzz?ta
 | Fullstack Blog App | Built frontend (**Flutter**) + backend (**Express**) blog app duo |
 | Open Source Contributor | Learning, building and contributing to open source |
 
-</details>
-
-<details>
-<summary>Show Testimonials</summary>
-<br/>
-
 > *Arga is a fast learner with a sharp eye for clean UI.* — Collaborator
 
 Want to leave a message? Open an [issue](https://github.com/argottzz/argottzz/issues).
-
-</details>
 
 ### [Support my work](https://github.com/sponsors/argottzz)
 
