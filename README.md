@@ -53,11 +53,6 @@
 
 <br/>
 
-<!-- Metrics by Lowlighter -->
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
-<br/>
-
 <!-- Standard GitHub Stats (Kylo Ren 'Blood' Theme) -->
 <img src="https://github-readme-stats.shion.dev/api?username=argottzz&theme=blood&hide_border=true&include_all_commits=false&count_private=false" width="48%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=argottzz&theme=blood&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
