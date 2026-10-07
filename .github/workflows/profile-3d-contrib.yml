@@ -1,9 +1,13 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Berjalan otomatis setiap jam 18:00 UTC (jam 01:00 WIB)
+  schedule: 
     - cron: "0 18 * * *"
-  workflow_dispatch: # Bisa dijalankan manual pakai tombol
+  workflow_dispatch: 
+
+# Tambahan izin akses agar Action bisa melakukan git push
+permissions:
+  contents: write
 
 jobs:
   build:
