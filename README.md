@@ -6,8 +6,8 @@
 </a>
 
 <!-- Spotify Now Playing -->
-<a href="https://github.com/novatorem">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=[SPOTIFY_USER_ID]&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+<a href="https://open.spotify.com/user/316upnyrwgyqagf5hjd4np7r2tyq">
+  <img src="https://spotify-readme-black-xi.vercel.app/api?background_color=000000&border_color=E50914" alt="Spotify Now Playing" />
 </a>
 
 <br/>
