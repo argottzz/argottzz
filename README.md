@@ -78,11 +78,6 @@ Consistency is the game. Every commit is progress.
 
 I'm always open to interesting projects, collaborations, internships, and learning opportunities.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Open_to-Collaboration-FF1A1A?style=for-the-badge&logoColor=white" alt="Open to Collaboration" />
-<img src="https://img.shields.io/badge/Open_to-Internships-0D1117?style=for-the-badge&logoColor=FF1A1A" alt="Open to Internships" />
-
 <br/><br/>
 
 <a href="https://instagram.com/argoottt" target="_blank">
