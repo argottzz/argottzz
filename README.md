@@ -44,23 +44,6 @@ Halo! Saya **Arga**, siswa RPL yang fokus di **Front-End Development & UI/UX**. 
 
 <br/>
 
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=argottzz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argottzz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=argottzz&theme=tokyonight&hide_border=true" width="98%" />
-
-<br/><br/>
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
