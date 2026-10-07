@@ -9,13 +9,6 @@
 </a>
 
 </div>
-
-<div align="center">
-
-### *On a Journey to become a great Front-End Developer*
-
-</div>
-
 ---
 
 <div align="center">
@@ -96,6 +89,14 @@ I'm always open to interesting projects, collaborations, internships, and learni
 
 <br/><br/>
 <img src="https://media.giphy.com/media/3ov9jSOVPbRIOZXuKI/giphy.gif" alt="Kylo Ren" width="400"/>
+
+
+<div align="center">
+
+### *On a Journey to become a great Front-End Developer*
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1A1A&height=90&section=header" width="100%" />
 
