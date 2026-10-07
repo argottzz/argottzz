@@ -1,7 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="45" viewBox="0 0 150 45">
-  <rect x="1.5" y="1.5" width="147" height="42" rx="10" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
-  <circle cx="28" cy="22.5" r="6" fill="none" stroke="#FF1A1A" stroke-width="2"/>
-  <rect x="22" y="16.5" width="12" height="12" rx="3.5" fill="none" stroke="#FF1A1A" stroke-width="2"/>
-  <circle cx="32.5" cy="19" r="1.6" fill="#FF1A1A"/>
-  <text x="88" y="28" font-family="'Fira Code', monospace" font-size="14" fill="#E6E6E6" text-anchor="middle">Instagram</text>
+<defs>
+<linearGradient id="igFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#FF1A1A"/>
+  <stop offset="100%" stop-color="#990000"/>
+</linearGradient>
+<style>
+  .t { font-family: 'Fira Code',ui-monospace,monospace; font-size: 14px; letter-spacing: 1px; fill: #E6E6E6; }
+</style>
+</defs>
+  <rect x="1.5" y="1.5" width="147" height="42" rx="10" fill="#0D1117" stroke="url(#igFrame)" stroke-width="2"/>
+  <rect x="18" y="12.5" width="20" height="20" rx="5.5" fill="none" stroke="#FF1A1A" stroke-width="2"/>
+  <circle cx="28" cy="22.5" r="4.5" fill="none" stroke="#FF1A1A" stroke-width="2"/>
+  <circle cx="33.5" cy="17.5" r="1.6" fill="#FF1A1A"/>
+  <text x="96" y="28" text-anchor="middle" class="t">Instagram</text>
 </svg>

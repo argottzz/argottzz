@@ -1,6 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130">
-  <rect x="2" y="2" width="796" height="126" rx="18" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
-  <rect x="30" y="28" width="6" height="32" rx="3" fill="#FF1A1A"/>
-  <text x="48" y="54" font-family="'Fira Code', monospace" font-size="24" font-weight="bold" fill="#FF1A1A">LET'S CONNECT</text>
-  <text x="30" y="96" font-family="'Fira Code', monospace" font-size="15" fill="#E6E6E6">Open to projects, collaborations &amp; learning opportunities.</text>
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #FF6666; }
+  .sub { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #cbd5e1; }
+  .corner { stroke: #FF1A1A; stroke-width: 2; fill: none; opacity: .8; }
+  .grid { stroke: #FF1A1A; stroke-opacity: .06; stroke-width: 1; }
+</style>
+<radialGradient id="connectBg" cx="50%" cy="15%" r="90%">
+  <stop offset="0%" stop-color="#2a0d0d"/>
+  <stop offset="45%" stop-color="#0D1117"/>
+  <stop offset="100%" stop-color="#000000"/>
+</radialGradient>
+<radialGradient id="connectVig" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<linearGradient id="connectFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#FF1A1A"/>
+  <stop offset="100%" stop-color="#990000"/>
+</linearGradient>
+<filter id="connectGlow" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="connectSoft" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="10" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" width="900" height="150" rx="18" fill="url(#connectBg)"/>
+<rect x="0" y="0" width="900" height="150" rx="18" fill="url(#connectVig)"/>
+<line class="grid" x1="0" y1="75" x2="900" y2="75"/>
+<rect x="3" y="3" width="894" height="144" rx="16" fill="none" stroke="url(#connectFrame)" stroke-width="5" opacity="0.22" filter="url(#connectSoft)"/>
+<rect x="3" y="3" width="894" height="144" rx="16" fill="none" stroke="url(#connectFrame)" stroke-width="2" opacity="0.55"/>
+<path class="corner" d="M24 50 L24 24 L60 24"/>
+<path class="corner" d="M876 50 L876 24 L840 24"/>
+<path class="corner" d="M24 100 L24 126 L60 126"/>
+<path class="corner" d="M876 100 L876 126 L840 126"/>
+<text x="450" y="58" text-anchor="middle" class="label">LET'S CONNECT</text>
+<rect x="390" y="70" width="120" height="2" fill="#FF1A1A" filter="url(#connectGlow)"/>
+<text x="450" y="112" text-anchor="middle" class="sub">Open to projects, collaborations and learning opportunities.</text>
 </svg>

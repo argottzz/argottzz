@@ -1,5 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="110" viewBox="0 0 800 110">
-  <rect x="2" y="2" width="796" height="106" rx="18" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
-  <text x="400" y="48" font-family="'Fira Code', monospace" font-size="17" font-style="italic" fill="#E6E6E6" text-anchor="middle">“Let the past die. Kill it if you have to.”</text>
-  <text x="400" y="76" font-family="'Fira Code', monospace" font-size="15" fill="#FF1A1A" text-anchor="middle">— Kylo Ren • May the Code be with you</text>
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .quote { font-family: 'Segoe UI', Arial, sans-serif; font-style: italic; font-size: 17px; fill: #E6E6E6; }
+  .attr { font-family: 'Fira Code',ui-monospace,monospace; font-size: 13px; letter-spacing: 2px; fill: #FF1A1A; }
+  .corner { stroke: #FF1A1A; stroke-width: 2; fill: none; opacity: .8; }
+</style>
+<radialGradient id="footerBg" cx="50%" cy="15%" r="90%">
+  <stop offset="0%" stop-color="#2a0d0d"/>
+  <stop offset="45%" stop-color="#0D1117"/>
+  <stop offset="100%" stop-color="#000000"/>
+</radialGradient>
+<radialGradient id="footerVig" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<linearGradient id="footerFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#FF1A1A"/>
+  <stop offset="100%" stop-color="#990000"/>
+</linearGradient>
+<filter id="footerSoft" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="10" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="0" y="0" width="900" height="130" rx="18" fill="url(#footerBg)"/>
+<rect x="0" y="0" width="900" height="130" rx="18" fill="url(#footerVig)"/>
+<rect x="3" y="3" width="894" height="124" rx="16" fill="none" stroke="url(#footerFrame)" stroke-width="5" opacity="0.22" filter="url(#footerSoft)"/>
+<rect x="3" y="3" width="894" height="124" rx="16" fill="none" stroke="url(#footerFrame)" stroke-width="2" opacity="0.55"/>
+<path class="corner" d="M24 50 L24 24 L60 24"/>
+<path class="corner" d="M876 50 L876 24 L840 24"/>
+<path class="corner" d="M24 80 L24 106 L60 106"/>
+<path class="corner" d="M876 80 L876 106 L840 106"/>
+<text x="450" y="58" text-anchor="middle" class="quote">Building clean, modern, and responsive web experiences.</text>
+<text x="450" y="92" text-anchor="middle" class="attr">ARGA • FRONT-END DEVELOPER</text>
 </svg>

@@ -1,8 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="172" viewBox="0 0 800 172">
-  <rect x="2" y="2" width="796" height="168" rx="18" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
-  <rect x="30" y="28" width="6" height="32" rx="3" fill="#FF1A1A"/>
-  <text x="48" y="54" font-family="'Fira Code', monospace" font-size="24" font-weight="bold" fill="#FF1A1A">ABOUT ME</text>
-  <text x="30" y="96" font-family="'Fira Code', monospace" font-size="15" fill="#E6E6E6">RPL student forging clean, modern &amp; responsive webs.</text>
-  <text x="30" y="121" font-family="'Fira Code', monospace" font-size="15" fill="#E6E6E6">Front-End Development x UI/UX x Flutter — Indonesia.</text>
-  <text x="30" y="146" font-family="'Fira Code', monospace" font-size="15" fill="#FF6666">Join the Dark Side of Front-End.</text>
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 26px; letter-spacing: 4px; fill: #ffffff; }
+  .role { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 13px; letter-spacing: 2px; fill: #FF6666; }
+  .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #FF6666; }
+  .initials { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 64px; fill: #FF1A1A; }
+  .hint { font-family: 'Fira Code',ui-monospace,monospace; font-size: 10px; letter-spacing: 2px; fill: #FF6666; }
+  .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; fill: #cbd5e1; }
+  .corner { stroke: #FF1A1A; stroke-width: 2; fill: none; opacity: .8; }
+  .grid { stroke: #FF1A1A; stroke-opacity: .06; stroke-width: 1; }
+</style>
+<radialGradient id="aboutBg" cx="50%" cy="15%" r="90%">
+  <stop offset="0%" stop-color="#2a0d0d"/>
+  <stop offset="45%" stop-color="#0D1117"/>
+  <stop offset="100%" stop-color="#000000"/>
+</radialGradient>
+<radialGradient id="aboutVig" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<linearGradient id="aboutFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#FF1A1A"/>
+  <stop offset="100%" stop-color="#990000"/>
+</linearGradient>
+<filter id="aboutGlow" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="aboutSoft" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="10" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="photoClip"><rect x="642" y="150" width="180" height="180" rx="20"/></clipPath>
+</defs>
+<rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutBg)"/>
+<rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutVig)"/>
+<g>
+  <line class="grid" x1="0" y1="90" x2="900" y2="90"/>
+  <line class="grid" x1="0" y1="215" x2="900" y2="215"/>
+  <line class="grid" x1="0" y1="330" x2="900" y2="330"/>
+</g>
+<rect x="3" y="3" width="894" height="424" rx="16" fill="none" stroke="url(#aboutFrame)" stroke-width="5" opacity="0.22" filter="url(#aboutSoft)"/>
+<rect x="3" y="3" width="894" height="424" rx="16" fill="none" stroke="url(#aboutFrame)" stroke-width="2" opacity="0.55"/>
+<path class="corner" d="M24 60 L24 24 L60 24"/>
+<path class="corner" d="M876 60 L876 24 L840 24"/>
+<path class="corner" d="M24 370 L24 406 L60 406"/>
+<path class="corner" d="M876 370 L876 406 L840 406"/>
+<text x="450" y="58" text-anchor="middle" class="label">ABOUT ME</text>
+<rect x="390" y="70" width="120" height="2" fill="#FF1A1A" filter="url(#aboutGlow)"/>
+<rect x="36" y="90" width="828" height="300" rx="20" fill="#1c0a0a" fill-opacity="0.55" stroke="#FF1A1A" stroke-opacity="0.35" stroke-width="1.5"/>
+<line x1="600" y1="112" x2="600" y2="368" stroke="#FF1A1A" stroke-opacity="0.15" stroke-width="1.5"/>
+<text x="72" y="143" class="name" style="font-size:24px" filter="url(#aboutSoft)">ARGA</text>
+<text x="72" y="167" class="role">SOFTWARE ENGINEERING STUDENT — FRONT-END DEVELOPER</text>
+<rect x="72" y="180" width="90" height="2" fill="#FF1A1A" filter="url(#aboutGlow)"/>
+<text x="72" y="206" class="desc">RPL student focused on Front-End Development and UI/UX.</text>
+<text x="72" y="222" class="desc">I build clean, modern, and responsive web interfaces,</text>
+<text x="72" y="238" class="desc">as well as Mobile UI with Flutter — learning through</text>
+<text x="72" y="254" class="desc">real projects and hands-on experience.</text>
+<text x="72" y="292" class="desc">I enjoy solving problems through design and code,</text>
+<text x="72" y="308" class="desc">and I am working toward becoming a professional</text>
+<text x="72" y="324" class="desc">Software Engineer building useful, user-centered products.</text>
+<text x="72" y="366" class="hint">REACT • FLUTTER • TYPESCRIPT • UI/UX</text>
+<rect x="634" y="142" width="196" height="196" rx="24" fill="none" stroke="#FF1A1A" stroke-width="1.5" filter="url(#aboutGlow)"/>
+<rect x="642" y="150" width="180" height="180" rx="20" fill="#1c0a0a" stroke="#FF1A1A" stroke-width="1.5"/>
+<text x="732" y="262" text-anchor="middle" class="initials">A</text>
+<g clip-path="url(#photoClip)">
+  <image href="https://avatars.githubusercontent.com/u/227297355?v=4&amp;s=360" x="642" y="150" width="180" height="180" preserveAspectRatio="xMidYMid slice"/>
+</g>
 </svg>
