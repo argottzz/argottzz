@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="45" viewBox="0 0 150 45">
+  <rect x="1.5" y="1.5" width="147" height="42" rx="10" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
+  <rect x="18" y="14" width="20" height="15" rx="2" fill="none" stroke="#FF1A1A" stroke-width="2"/>
+  <path d="M18 16 L28 24 L38 16" fill="none" stroke="#FF1A1A" stroke-width="2"/>
+  <text x="95" y="28" font-family="'Fira Code', monospace" font-size="14" fill="#E6E6E6" text-anchor="middle">Gmail</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="172" viewBox="0 0 800 172">
+  <rect x="2" y="2" width="796" height="168" rx="18" fill="#0D1117" stroke="#FF1A1A" stroke-width="2"/>
+  <rect x="30" y="28" width="6" height="32" rx="3" fill="#FF1A1A"/>
+  <text x="48" y="54" font-family="'Fira Code', monospace" font-size="24" font-weight="bold" fill="#FF1A1A">ABOUT ME</text>
+  <text x="30" y="96" font-family="'Fira Code', monospace" font-size="15" fill="#E6E6E6">RPL student forging clean, modern &amp; responsive webs.</text>
+  <text x="30" y="121" font-family="'Fira Code', monospace" font-size="15" fill="#E6E6E6">Front-End Development x UI/UX x Flutter — Indonesia.</text>
+  <text x="30" y="146" font-family="'Fira Code', monospace" font-size="15" fill="#FF6666">Join the Dark Side of Front-End.</text>
+</svg>

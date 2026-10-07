@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF1A1A&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Arga;Join+the+Dark+Side+of+Front-End;May+the+Code+be+with+you" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=argottzz&color=FF1A1A&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/argottzz?label=Followers&style=flat&color=FF1A1A" alt="followers" />
-<img src="https://img.shields.io/badge/Dark_Side-Apprentice-FF1A1A?style=flat&logo=starwars&logoColor=white" alt="dark side" />
-
 </div>
 
 <div align="center">
@@ -26,7 +20,15 @@
 
 </div>
 
-## ⚔️ Halo, Young Apprentice
+---
+
+## About Me
+
+<div align="center">
+
+<img width="100%" src="about.svg" alt="About Arga" />
+
+</div>
 
 <table>
 <tr>
@@ -57,6 +59,8 @@ I am very passionate about:
 </tr>
 </table>
 
+---
+
 ## 🔥 Present Status
 
 <table>
@@ -78,40 +82,23 @@ I am very passionate about:
 </td>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo lightsaber ignite" width="280" />
+<img src="https://media.giphy.com/media/3ohuPsd2QJlKWmhgSk/giphy.gif" alt="Darth Vader" width="280" />
 
-*Power of the Dark Side*
+*Learn from the Master*
 
 </td>
 </tr>
 </table>
 
-## 🌐 Transmissions (Connect with me)
+---
+
+## Tech Stack
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/argoottt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:argazanuar1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF1A1A)](https://github.com/argottzz)
+<img width="100%" src="skills.svg" alt="Tech Stack" />
 
 </div>
-
-## ⚔️ GitHub Stats — Power of the Dark Side
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=argottzz&theme=dark&title_color=FF1A1A&icon_color=FF1A1A&text_color=FFFFFF&bg_color=0D1117&border_color=FF1A1A&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argottzz&theme=dark&title_color=FF1A1A&text_color=FFFFFF&bg_color=0D1117&border_color=FF1A1A&layout=compact&hide_border=false" width="48%" />
-
-<br/><br/>
-<img src="https://streak-stats.demolab.com/?user=argottzz&theme=dark&fire=FF1A1A&ring=FF1A1A&currStreakLabel=FF1A1A&background=0D1117&border=FF1A1A&hide_border=false" width="98%" />
-
-<br/><br/>
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-
-</div>
-
-## 🌱 Skills — Weapons of Choice
 
 <details>
 <summary>⚔️ Show Skills</summary>
@@ -143,6 +130,44 @@ I am very passionate about:
 
 </details>
 
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="analytics.svg" alt="GitHub Analytics" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=argottzz&theme=dark&title_color=FF1A1A&icon_color=FF1A1A&text_color=FFFFFF&bg_color=0D1117&border_color=FF1A1A&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argottzz&theme=dark&title_color=FF1A1A&text_color=FFFFFF&bg_color=0D1117&border_color=FF1A1A&layout=compact&hide_border=false" width="48%" />
+
+<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=argottzz&theme=dark&fire=FF1A1A&ring=FF1A1A&currStreakLabel=FF1A1A&background=0D1117&border=FF1A1A&hide_border=false" width="98%" />
+
+</div>
+
+---
+
+## Contribution Arcade
+
+<div align="center">
+
+Consistency is the Force. Every commit is progress.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/argottzz/argottzz/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/argottzz/argottzz/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/argottzz/argottzz/output/galaga-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/argottzz/argottzz/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
 ## 🚀 My Projects & Conquests 🔥
 
 <details>
@@ -161,6 +186,8 @@ I am very passionate about:
 👉 See all conquests: [argottzz?tab=repositories](https://github.com/argottzz?tab=repositories)
 
 </details>
+
+---
 
 ## 🏆 Achievements ⚡ & Testimonials 😇
 
@@ -188,37 +215,46 @@ Want to leave a holocron message? Open an [issue](https://github.com/argottzz/ar
 
 ### [❤️ Support my quest — May the Code be with you ⚔️](https://github.com/sponsors/argottzz)
 
-<br/>
+---
 
-## 🐍 Battle Record
+## Let's Connect
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-<!-- Snake di-generate otomatis tiap 12 jam via .github/workflows/snake.yml (Platane/snk) -->
+<img width="100%" src="connect.svg" alt="Connect" />
 
-<br/><br/>
+I'm always open to interesting projects, collaborations, internships, and learning opportunities.
 
-<img src="https://raw.githubusercontent.com/argottzz/argottzz/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" width="100%"/>
+<a href="https://instagram.com/argoottt" target="_blank">
+  <img width="150" src="instagram.svg" alt="Instagram"/>
+</a>
+<a href="mailto:argazanuar1@gmail.com">
+  <img width="150" src="gmail.svg" alt="Gmail"/>
+</a>
+<a href="https://github.com/argottzz" target="_blank">
+  <img width="150" src="github-button.svg" alt="GitHub"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
-  <br/><br/>
-  <img src="https://media.giphy.com/media/3ov9jSOVPbRIOZXuKI/giphy.gif" alt="Kylo Ren" width="400"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="quote" />
+<br/><br/>
+<img src="https://media.giphy.com/media/3ornjIQ18sub4p2Izm/giphy.gif" alt="Death Star" width="400"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="footer.svg" alt="Footer" />
 </div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1A1A&height=100&section=footer" width="100%" />
-
-*⚔️ “Let the past die. Kill it if you have to. That's the only way to become what you were meant to be.” — Kylo Ren*
 
 </div>
