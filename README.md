@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="100%" style="border-radius:20px" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=130&section=header&text=ARGA&fontColor=FF1A1A&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
 
 <a href="https://git.io/typing-svg">
@@ -11,8 +13,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1A1A&height=90&section=header" width="100%" />
-
-<img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="100%" style="border-radius:20px" />
 
 ### *On a Journey to become a great Front-End Developer*
 
