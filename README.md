@@ -7,11 +7,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<img src="fire-divider.svg" alt="Orange divider" width="80%" />
-
 </div>
 
 ---
@@ -106,13 +101,11 @@ I'm always open to interesting projects, collaborations, internships, and learni
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="600" style="border-radius:24px" />
-
-<br/><br/>
-
 ### *On a Journey to Become a Great Front-End Developer*
 
 <br/>
+
+<img src="fire-divider.svg" alt="Orange divider" width="80%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=100&section=footer" width="100%" />
 
