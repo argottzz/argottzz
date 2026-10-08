@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="45" viewBox="0 0 150 45">
 <defs>
 <linearGradient id="ghFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#FF1A1A"/>
-  <stop offset="100%" stop-color="#990000"/>
+  <stop offset="0%" stop-color="#FF2A00"/>
+  <stop offset="100%" stop-color="#FF8C00"/>
 </linearGradient>
 <style>
   .t { font-family: 'Fira Code',ui-monospace,monospace; font-size: 14px; letter-spacing: 1px; fill: #E6E6E6; }
 </style>
 </defs>
   <rect x="1.5" y="1.5" width="147" height="42" rx="10" fill="#0D1117" stroke="url(#ghFrame)" stroke-width="2"/>
-  <path d="M28 12 C22 12 19 16.5 19 22.5 C19 27.5 22 32 27 32 C28.5 32 29.5 31.4 29.5 30.2 L29.5 28.5 C29.5 27.3 28.6 26.5 27.5 26.8 C26 27.2 25 26 25 24.3 C25 22.3 26.5 21 28.3 21.5 C29.4 21.8 29.7 22.6 30.4 22.6 L33 22.6 C33.9 22.6 34.3 21.6 33.7 20.9 C32.4 19.4 30.4 18.4 28 18.4 L28 12 Z M31 25.5 C30 25.5 29.3 26.4 29.3 27.7 L29.3 31.5 C29.3 32.4 30 33 31 33 C32 33 32.7 32.1 32.7 30.8 L32.7 27 C32.7 26.1 32 25.5 31 25.5 Z" fill="#FF1A1A"/>
+  <path d="M28 12 C22 12 19 16.5 19 22.5 C19 27.5 22 32 27 32 C28.5 32 29.5 31.4 29.5 30.2 L29.5 28.5 C29.5 27.3 28.6 26.5 27.5 26.8 C26 27.2 25 26 25 24.3 C25 22.3 26.5 21 28.3 21.5 C29.4 21.8 29.7 22.6 30.4 22.6 L33 22.6 C33.9 22.6 34.3 21.6 33.7 20.9 C32.4 19.4 30.4 18.4 28 18.4 L28 12 Z M31 25.5 C30 25.5 29.3 26.4 29.3 27.7 L29.3 31.5 C29.3 32.4 30 33 31 33 C32 33 32.7 32.1 32.7 30.8 L32.7 27 C32.7 26.1 32 25.5 31 25.5 Z" fill="#FF7A00"/>
   <text x="95" y="28" text-anchor="middle" class="t">GitHub</text>
 </svg>

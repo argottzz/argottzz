@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="45" viewBox="0 0 150 45">
 <defs>
 <linearGradient id="gmFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#FF1A1A"/>
-  <stop offset="100%" stop-color="#990000"/>
+  <stop offset="0%" stop-color="#FF2A00"/>
+  <stop offset="100%" stop-color="#FF8C00"/>
 </linearGradient>
 <style>
   .t { font-family: 'Fira Code',ui-monospace,monospace; font-size: 14px; letter-spacing: 1px; fill: #E6E6E6; }
 </style>
 </defs>
   <rect x="1.5" y="1.5" width="147" height="42" rx="10" fill="#0D1117" stroke="url(#gmFrame)" stroke-width="2"/>
-  <rect x="18" y="14" width="20" height="15" rx="2" fill="none" stroke="#FF1A1A" stroke-width="2"/>
-  <path d="M18 16 L28 24 L38 16" fill="none" stroke="#FF1A1A" stroke-width="2"/>
+  <rect x="18" y="14" width="20" height="15" rx="2" fill="none" stroke="#FF7A00" stroke-width="2"/>
+  <path d="M18 16 L28 24 L38 16" fill="none" stroke="#FF7A00" stroke-width="2"/>
   <text x="95" y="28" text-anchor="middle" class="t">Gmail</text>
 </svg>

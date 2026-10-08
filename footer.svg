@@ -2,11 +2,11 @@
 <defs>
 <style>
   .quote { font-family: 'Segoe UI', Arial, sans-serif; font-style: italic; font-size: 17px; fill: #E6E6E6; }
-  .attr { font-family: 'Fira Code',ui-monospace,monospace; font-size: 13px; letter-spacing: 2px; fill: #FF1A1A; }
-  .corner { stroke: #FF1A1A; stroke-width: 2; fill: none; opacity: .8; }
+  .attr { font-family: 'Fira Code',ui-monospace,monospace; font-size: 13px; letter-spacing: 2px; fill: #FF7A00; }
+  .corner { stroke: #FF7A00; stroke-width: 2; fill: none; opacity: .8; }
 </style>
 <radialGradient id="footerBg" cx="50%" cy="15%" r="90%">
-  <stop offset="0%" stop-color="#2a0d0d"/>
+  <stop offset="0%" stop-color="#2a1508"/>
   <stop offset="45%" stop-color="#0D1117"/>
   <stop offset="100%" stop-color="#000000"/>
 </radialGradient>
@@ -15,8 +15,8 @@
   <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
 </radialGradient>
 <linearGradient id="footerFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#FF1A1A"/>
-  <stop offset="100%" stop-color="#990000"/>
+  <stop offset="0%" stop-color="#FF2A00"/>
+  <stop offset="100%" stop-color="#FF8C00"/>
 </linearGradient>
 <filter id="footerSoft" x="-80%" y="-80%" width="260%" height="260%">
   <feGaussianBlur stdDeviation="10" result="blur"/>

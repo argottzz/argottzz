@@ -2,15 +2,15 @@
 <defs>
 <style>
   .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 28px; letter-spacing: 6px; fill: #ffffff; }
-  .role { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 13px; letter-spacing: 2px; fill: #FF6666; }
-  .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #FF6666; }
-  .hint { font-family: 'Fira Code',ui-monospace,monospace; font-size: 11px; letter-spacing: 2px; fill: #FF6666; }
+  .role { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 13px; letter-spacing: 2px; fill: #FF9E5E; }
+  .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #FF9E5E; }
+  .hint { font-family: 'Fira Code',ui-monospace,monospace; font-size: 11px; letter-spacing: 2px; fill: #FF9E5E; }
   .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #cbd5e1; }
-  .corner { stroke: #FF1A1A; stroke-width: 2; fill: none; opacity: .8; }
-  .grid { stroke: #FF1A1A; stroke-opacity: .06; stroke-width: 1; }
+  .corner { stroke: #FF7A00; stroke-width: 2; fill: none; opacity: .8; }
+  .grid { stroke: #FF7A00; stroke-opacity: .06; stroke-width: 1; }
 </style>
 <radialGradient id="aboutBg" cx="50%" cy="15%" r="90%">
-  <stop offset="0%" stop-color="#2a0d0d"/>
+  <stop offset="0%" stop-color="#2a1508"/>
   <stop offset="45%" stop-color="#0D1117"/>
   <stop offset="100%" stop-color="#000000"/>
 </radialGradient>
@@ -19,8 +19,8 @@
   <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
 </radialGradient>
 <linearGradient id="aboutFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-  <stop offset="0%" stop-color="#FF1A1A"/>
-  <stop offset="100%" stop-color="#990000"/>
+  <stop offset="0%" stop-color="#FF2A00"/>
+  <stop offset="100%" stop-color="#FF8C00"/>
 </linearGradient>
 <filter id="aboutGlow" x="-60%" y="-60%" width="220%" height="220%">
   <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -45,10 +45,10 @@
 <path class="corner" d="M24 340 L24 376 L60 376"/>
 <path class="corner" d="M876 340 L876 376 L840 376"/>
 <text x="450" y="58" text-anchor="middle" class="label">ABOUT ME</text>
-<rect x="390" y="70" width="120" height="2" fill="#FF1A1A" filter="url(#aboutGlow)"/>
+<rect x="390" y="70" width="120" height="2" fill="#FF7A00" filter="url(#aboutGlow)"/>
 <text x="450" y="128" text-anchor="middle" class="name" filter="url(#aboutSoft)">ARGA</text>
 <text x="450" y="154" text-anchor="middle" class="role">SOFTWARE ENGINEERING STUDENT — FRONT-END DEVELOPER</text>
-<rect x="405" y="168" width="90" height="2" fill="#FF1A1A" filter="url(#aboutGlow)"/>
+<rect x="405" y="168" width="90" height="2" fill="#FF7A00" filter="url(#aboutGlow)"/>
 <text x="450" y="204" text-anchor="middle" class="desc">RPL student focused on Front-End Development and UI/UX.</text>
 <text x="450" y="228" text-anchor="middle" class="desc">I build clean, modern, and responsive web interfaces, as well as Mobile UI</text>
 <text x="450" y="252" text-anchor="middle" class="desc">with Flutter — learning through real projects and hands-on experience.</text>
