@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="100%" style="border-radius:20px" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=130&section=header&text=Hi%20I'm%20Arga&fontColor=F5F5F5&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
