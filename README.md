@@ -93,11 +93,7 @@ I'm always open to interesting projects, collaborations, internships, and learni
   <img width="170" src="github-button.svg" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="fire-divider.svg" alt="Orange divider" width="80%" />
-
-<br/><br/>
+<br/>
 
 ### *On a Journey to Become a Great Front-End Developer*
 
