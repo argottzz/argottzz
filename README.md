@@ -22,12 +22,6 @@
 <a id="about"></a>
 <img width="100%" src="about.svg" alt="About Arga" />
 
-```text
-IDENTITY ......... Arga — Front-End Developer | UI/UX Enthusiast
-CURRENT STATUS ... Open to learning, projects, and collaboration.
-ACTIVE PROJECT ... Maintaining and improving ReBites & CicipYuk.
-NEXT OBJECTIVE ... Strengthen my development skills and build more meaningful projects.
-```
 
 </div>
 
