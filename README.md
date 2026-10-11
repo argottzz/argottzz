@@ -9,11 +9,9 @@
 </a>
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="about.svg" alt="About Arga" />
+**[About](#about) · [Tech Stack](#arsenal) · [Mission Log](#mission-log) · [Analytics](#analytics) · [Connect](#connect)**
 
 </div>
 
@@ -21,6 +19,23 @@
 
 <div align="center">
 
+<a id="about"></a>
+<img width="100%" src="about.svg" alt="About Arga" />
+
+```text
+IDENTITY ......... Arga — Front-End Developer | UI/UX Enthusiast
+CURRENT STATUS ... Open to learning, projects, and collaboration.
+ACTIVE PROJECT ... Maintaining and improving ReBites & CicipYuk.
+NEXT OBJECTIVE ... Strengthen my development skills and build more meaningful projects.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<a id="arsenal"></a>
 <img width="100%" src="skills.svg" alt="Tech Stack" />
 
 <br/>
@@ -33,6 +48,7 @@
 
 <div align="center">
 
+<a id="mission-log"></a>
 <img width="100%" src="mission-log.svg" alt="Mission Log" />
 
 <table>
@@ -78,12 +94,17 @@ Aplikasi blog kuliner untuk jelajah dan ulas makanan.
 </tr>
 </table>
 
+| CURRENTLY LEARNING | ACTIVE PROJECTS | NEXT OBJECTIVE |
+|---|---|---|
+| Improving my skills in TypeScript, Flutter, and full-stack development. | Exploring new features, refining UI/UX, and improving code quality in my existing projects. | Build more polished applications and expand my technical knowledge. |
+
 </div>
 
 ---
 
 <div align="center">
 
+<a id="analytics"></a>
 <img width="100%" src="analytics.svg" alt="GitHub Analytics" />
 
 <br/>
@@ -126,6 +147,7 @@ Aplikasi blog kuliner untuk jelajah dan ulas makanan.
 
 <div align="center">
 
+<a id="connect"></a>
 <img width="100%" src="connect.svg" alt="Connect" />
 
 <br/>
