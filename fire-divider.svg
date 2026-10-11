@@ -1,13 +1,13 @@
 <svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
 <defs>
 <linearGradient id="fireGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-  <stop offset="0%" stop-color="#FF1A1A"/>
-  <stop offset="55%" stop-color="#FF6A00"/>
-  <stop offset="100%" stop-color="#FFB300"/>
+  <stop offset="0%" stop-color="#7A1E24"/>
+  <stop offset="55%" stop-color="#C43D46"/>
+  <stop offset="100%" stop-color="#929BA8"/>
 </linearGradient>
 <linearGradient id="fireGlow" x1="0%" y1="0%" x2="0%" y2="100%">
-  <stop offset="0%" stop-color="#FFB300" stop-opacity="0.9"/>
-  <stop offset="100%" stop-color="#FF2A00" stop-opacity="1"/>
+  <stop offset="0%" stop-color="#929BA8" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#C43D46" stop-opacity="1"/>
 </linearGradient>
 </defs>
 <path d="M0,90 L0,55 L30,32 L60,52 L95,12 L135,48 L170,22 L200,50 L235,8 L275,46 L310,26 L340,51 L375,14 L415,47 L450,24 L480,52 L515,10 L555,48 L590,22 L620,50 L655,12 L695,47 L730,28 L760,52 L795,16 L830,50 L865,30 L900,54 L900,90 Z" fill="url(#fireGrad)"/>

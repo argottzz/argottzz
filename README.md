@@ -2,8 +2,10 @@
 
 <img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="100%" style="border-radius:20px" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=130&section=header&text=Hi%20I%27m%20Arga&fontColor=E7EAF0&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6A00&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C43D46&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
 </div>
 
@@ -31,17 +33,68 @@
 
 <div align="center">
 
+<img width="100%" src="mission-log.svg" alt="Mission Log" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ REBITES — Surplus Food Platform
+
+Surplus-food platform yang menghubungkan pengguna dengan UMKM di Kota Depok.
+
+**Fokus:** katalog UMKM • listing surplus • transaksi hemat-buang
+
+**Tech:** `TypeScript` `Next.js` `Tailwind`
+
+<br/>
+
+<a href="https://github.com/kayy-eci/Rebitesss-oscar3.0">View Repository →</a>
+
+<br/>
+
+![Completed](https://img.shields.io/badge/status-completed-C43D46?style=flat&labelColor=0B0D10&color=C43D46)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ CICIPYUK — Culinary Blog App
+
+Aplikasi blog kuliner untuk jelajah dan ulas makanan.
+
+**Fokus:** auth • CRUD post • feed kuliner
+
+**Tech:** `Flutter` `Express` `SQL`
+
+<br/>
+
+<a href="https://github.com/argottzz/CicipYuk-blogApp">View Repository →</a>
+
+<br/>
+
+![Completed](https://img.shields.io/badge/status-completed-C43D46?style=flat&labelColor=0B0D10&color=C43D46)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 <img width="100%" src="analytics.svg" alt="GitHub Analytics" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=argottzz&theme=dark&title_color=FF6A00&icon_color=FF8C00&text_color=F5F5F5&bg_color=0B0D10&border_color=292D33&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=argottzz&theme=dark&title_color=C43D46&icon_color=929BA8&text_color=E7EAF0&bg_color=0B0D10&border_color=C43D46&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argottzz&theme=dark&title_color=FF6A00&text_color=F5F5F5&bg_color=0B0D10&border_color=292D33&layout=compact&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argottzz&theme=dark&title_color=C43D46&text_color=E7EAF0&bg_color=0B0D10&border_color=C43D46&layout=compact&hide_border=false" width="48%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=argottzz&theme=dark&fire=FF6A00&ring=FF8C00&currStreakLabel=FF8C00&background=0B0D10&border=292D33&hide_border=false" width="98%" />
+<img src="https://streak-stats.demolab.com/?user=argottzz&theme=dark&fire=C43D46&ring=929BA8&currStreakLabel=929BA8&background=0B0D10&border=C43D46&hide_border=false" width="98%" />
 
 </div>
 
@@ -82,15 +135,15 @@ I'm always open to interesting projects, collaborations, internships, and learni
 <br/><br/>
 
 <a href="https://instagram.com/argoottt" target="_blank">
-  <img width="170" src="instagram.svg" alt="Instagram"/>
+  <img width="150" src="instagram.svg" alt="Instagram"/>
 </a>
 
 <a href="mailto:argazanuar1@gmail.com">
-  <img width="170" src="gmail.svg" alt="Gmail"/>
+  <img width="150" src="gmail.svg" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/argottzz" target="_blank">
-  <img width="170" src="github-button.svg" alt="GitHub"/>
+  <img width="150" src="github-button.svg" alt="GitHub"/>
 </a>
 
 <br/>
@@ -99,8 +152,10 @@ I'm always open to interesting projects, collaborations, internships, and learni
 
 <br/>
 
-<img src="fire-divider.svg" alt="Orange divider" width="80%" />
+<img width="100%" src="fire-divider.svg" alt="fire divider" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=100&section=footer" width="100%" />
+<br/>
+
+<img width="100%" src="footer.svg" alt="footer" />
 
 </div>
