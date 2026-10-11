@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/3o7aDgqL1FX9WhrAUE/giphy.gif" alt="Kylo Ren lightsaber" width="100%" style="border-radius:20px" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0D10&height=130&section=header&text=Hi%20I%27m%20Arga&fontColor=E7EAF0&fontSize=48&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C43D46&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Arga;Software+Engineering+Student;Front-End+Developer+%7C+UI%2FUX+Enthusiast" alt="Typing SVG" />
 </a>
@@ -22,7 +20,6 @@
 <a id="about"></a>
 <img width="100%" src="about.svg" alt="About Arga" />
 
-
 </div>
 
 ---
@@ -31,10 +28,6 @@
 
 <a id="arsenal"></a>
 <img width="100%" src="skills.svg" alt="Tech Stack" />
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,dart,py,flutter,laravel,nextjs,nodejs,react,vite,tailwind,mysql,figma\&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -161,10 +154,6 @@ I'm always open to interesting projects, collaborations, internships, and learni
 <a href="https://github.com/argottzz" target="_blank">
   <img width="150" src="github-button.svg" alt="GitHub"/>
 </a>
-
-<br/>
-
-### *On a Journey to Become a Great Front-End Developer*
 
 <br/>
 
